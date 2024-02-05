@@ -1,0 +1,12 @@
+{
+  "name": "com.iup.toolkits",
+  "version": "0.0.1",
+  "displayName": "IUP Toolkits",
+  "description": "Набор утилит, созданный для упрощения разработки Children of the Deep.",
+  "author": {
+    "name": "PostEnot",
+    "email": "ve.vyshegorodsky.cold@gmail.com",
+    "url": "https://t.me/ProcyonNihil"
+  },
+  "type": "library"
+}
